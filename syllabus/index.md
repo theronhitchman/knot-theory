@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Ordinary Differential Equations
+title: Knot Theory
 ---
 
 #### Math 4159/5159, Spring 2017
