@@ -12,3 +12,10 @@ A collection of interesting knot theory things from across the web.
 - [Knot Plot](http://knotplot.com/): The main site for a software package for drawing knots.
 - [The Rolfsen Table](http://katlas.org/wiki/The_Rolfsen_Knot_Table): hosted at the Knot Atlas,
 this is Dale Rolfsen's table of prime knots with small crossing numbers.
+
+# Some Books as PDFs
+
+(try to stay out of these for now)
+
+- [Murasugi](http://www.maths.ed.ac.uk/~aar/papers/murasug3.pdf)'s Knot Theory and Its Applications
+- [Crow and Fox](http://www.maths.ed.ac.uk/~aar/papers/crowfox.pdf)'s Introduction to Knot Theory
