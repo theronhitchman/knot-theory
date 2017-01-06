@@ -61,22 +61,49 @@ the class during week 15.
 
 The basic grading rubric is as follows:
 
-| Undergrad Mark | Graduate Mark | Work Expected |
-|:--------------:|:-------------:|:-----------------------------------------------------------------------------------------------------:|
-|  |   | Long term project with |
-|  | A | in-class presentation |
-|  |   |  & work listed below |
-| A | B | Final poster project |
-|   |   | & work listed below |
-|   |   | Some instances of producing |
-| B | C | arguments for sharing in class |
-|   |   | & work listed below |
-|   |   | Competent demonstration of mastery |
-| C | D | of basic ideas on exams  |
-|   |   | & regular participation in class activities |
-| D | F | Regular participation in class, |
-|   |   | but fail to reproduce ideas on exams |
-| F |   | Fail to meet the standards for a D |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+@media screen and (max-width: 767px) {.tg {width: auto !important;}.tg col {width: auto !important;}.tg-wrap {overflow-x: auto;-webkit-overflow-scrolling: touch;}}</style>
+<div class="tg-wrap"><table class="tg">
+  <tr>
+    <th class="tg-baqh">Undergrad Mark</th>
+    <th class="tg-baqh">Graduate Mark</th>
+    <th class="tg-baqh">Work Expected</th>
+  </tr>
+  <tr>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh">A</td>
+    <td class="tg-baqh">Long term project with <br>in-class presentation<br>&amp; work listed below</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">A</td>
+    <td class="tg-baqh">B</td>
+    <td class="tg-baqh">Final poster project<br>&amp; work listed below</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">B</td>
+    <td class="tg-baqh">C</td>
+    <td class="tg-baqh">Some instances of producing<br>arguments for sharing in class<br>&amp; work listed below</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">C</td>
+    <td class="tg-baqh">D</td>
+    <td class="tg-baqh">Competently demonstrate mastery <br>of basic ideas on exams <br>&amp; regular participation<br>in class activities</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">D</td>
+    <td class="tg-baqh">F</td>
+    <td class="tg-baqh">Regular participation in class,<br>but fail to reproduce ideas on exams</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">F</td>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh">Fail to meet the standards for a D</td>
+  </tr>
+</table></div>
 
 ### Dates to Watch:
 
