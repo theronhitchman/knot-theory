@@ -63,12 +63,20 @@ The basic grading rubric is as follows:
 
 | Undergrad Mark | Graduate Mark | Work Expected |
 |:--------------:|:-------------:|:-----------------------------------------------------------------------------------------------------:|
-|  | A | Long term project with <br />in-class presentation <br />& work listed below |
-| A | B | Final poster project & work listed below |
-| B | C | Some instances of producing arguments for sharing in class & work listed below |
-| C | D | Competently demonstrate mastery  of basic ideas on exams  & regular participation in class activities |
-| D | F | Regular participation in class, but fail to reproduce ideas on exams |
-| F |  | Fail to meet the standards for a D |
+|  |   | Long term project with |
+|  | A | in-class presentation |
+|  |   |  & work listed below |
+| A | B | Final poster project |
+|   |   | & work listed below |
+|   |   | Some instances of producing |
+| B | C | arguments for sharing in class |
+|   |   | & work listed below |
+|   |   | Competent demonstration of mastery |
+| C | D | of basic ideas on exams  |
+|   |   | & regular participation in class activities |
+| D | F | Regular participation in class, |
+|   |   | but fail to reproduce ideas on exams |
+| F |   | Fail to meet the standards for a D |
 
 ### Dates to Watch:
 
