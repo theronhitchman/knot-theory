@@ -1,0 +1,18 @@
+\documentclass{article}
+\usepackage{tikz}
+\usetikzlibrary{knots,hobby}
+
+\begin{document}
+\begin{tikzpicture}[use Hobby shortcut]
+\begin{knot}[
+  consider self intersections,
+%  draft mode=crossings,
+  ignore endpoint intersections=false,
+  every strand/.style={draw,ultra thick},
+  clip width=4,
+  flip crossing/.list={3,5,7}
+]
+\strand ([closed]4,-.25) .. (90:3.5) .. (135:4.5) .. (157.5:3.5) .. (180:4.5) .. (202.5:3.5) .. (225:4.5) .. (-90:3.5) .. (4,.25) .. (-45:4.5) .. (-90:4.5) .. (225:3.5) .. (202.5:4.5) .. (180:3.5) .. (157.5:4.5) .. (135:3.5) .. (90:4.5) .. (45:4.5);
+\end{knot}
+\end{tikzpicture}
+\end{document}
