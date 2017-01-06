@@ -1,9 +1,8 @@
 ---
 layout: info
-title: Information
+title: Course Information
 ---
 
 
 
 {% include sidebar.html %}
-
