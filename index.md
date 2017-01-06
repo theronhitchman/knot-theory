@@ -19,11 +19,11 @@ title:  UNI Math 4159/5159 <br class="visible-xs" /><i>Knot Theory</i>
 	<div class="post">
 		<h3 class="title"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
 		<p class="meta">Date: {{ post.date }}</p>
-<!--		<div class="entry">
-			{{ post.content | truncatewords: 25}}
+		<div class="entry">
+			{{ post.content | truncatewords: 75}}
 		</div>
 	</div>
--->
+
     {% endfor %}
   </div>
 </div>
