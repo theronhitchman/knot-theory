@@ -20,7 +20,7 @@ title:  UNI Math 4159/5159 <br class="visible-xs" /><i>Knot Theory</i>
 		<h3 class="title"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
 		<p class="meta">Date: {{ post.date }}</p>
 		<div class="entry">
-			{{ post.content | truncatewords: 75}}
+			{{ post.content | truncatewords: 50}}
 		</div>
 	</div>
 
