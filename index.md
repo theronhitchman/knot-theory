@@ -1,14 +1,14 @@
 ---
 layout: default
-title:  UNI Math 3425 <br class="visible-xs" /><i>Ordinary Differential Equations</i>
+title:  UNI Math 4159/5159 <br class="visible-xs" /><i>Knot Theory</i>
 ---
 
 <div class="row">
   <div class="col-xs-12">
     <p class="lead">
-      This is the course web site for <i>Ordinary Differential Equations</i>.
+      This is the course web site for <i>Knot Theory</i>.
       Here you can find all of the documentation for class, including a
-      syllabus, all of the assignments, and the class blog.
+      syllabus, a list of resources, and the class blog.
     </p>
   </div>
 </div>
