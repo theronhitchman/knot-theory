@@ -63,7 +63,7 @@ The basic grading rubric is as follows:
 
 | Undergrad Mark | Graduate Mark | Work Expected |
 |:--------------:|:-------------:|:-----------------------------------------------------------------------------------------------------:|
-|  | A | Long term project with  in-class presentation & work listed below |
+|  | A | Long term project with <br />in-class presentation <br />& work listed below |
 | A | B | Final poster project & work listed below |
 | B | C | Some instances of producing arguments for sharing in class & work listed below |
 | C | D | Competently demonstrate mastery  of basic ideas on exams  & regular participation in class activities |
