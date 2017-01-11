@@ -13,9 +13,9 @@ because a knot is either alternating or it isn't. [see what I did there?]
 I used the following examples today:
 
   * a disguised trefoil,
-  * a trefoil $3_1$,
-  * the six-crossing knot $6_3$,
-  * the seven-crossing knot $7_4$, and
+  * a trefoil \\(3_1\\),
+  * the six-crossing knot \\(6_3\\),
+  * the seven-crossing knot \\(7_4\\), and
   * Goeritz's unknot.
 
 You can find more about these, and diagrams from the site
