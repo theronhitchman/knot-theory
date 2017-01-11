@@ -28,3 +28,15 @@ need to do a Google Search.
 aren't. [I did it again.]
 2. Find a sequence of diagrams which helps show that Goeritz's unknot really is
 the unknot.
+
+## UPDATE
+
+I don't want to forget that Eric (the charm one) asked a really interesting
+question, which brought us to discuss Peter Guthrie Tait and one of his famous
+conjectures:
+
+> *Conjecture:* [P.G. Tait, ca. 1880] Any reduced diagram of an alternating
+link has the fewest possible crossings.
+
+We haven't talked about what "reduced" means, yet. Don't worry, we'll come back
+to this later.
