@@ -5,8 +5,8 @@ layout: post
 ---
 
 We discussed two new concepts today: the mirror image of a knot, and the reverse
-of an oriented knot. We looked at four examples: \\( 3_1 \\) (the trefoil),
-\\( 4_1 \\) (the figure eight knot), \\( 5_2 \\), and \\( 8_{15} \\). You can find
+of an oriented knot. We looked at four examples: the trefoil \\( 3_1 , \\)
+the figure eight knot \\( 4_1 , \\)  \\( 5_2 , \\) and \\( 8_{15} . \\) You can find
 each of these on the site KnotInfo.
 
 ### For Wednesday
