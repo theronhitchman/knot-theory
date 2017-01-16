@@ -5,9 +5,10 @@ layout: post
 ---
 
 We discussed two new concepts today: the mirror image of a knot, and the reverse
-of an oriented knot. We looked at four examples: the trefoil knot <span>\( 3_1 , \)</span>
-the figure eight knot <span>\( 4_1 \)</span>, the five-crossing knot <span>\( 5_2 \)</span>, and
-the eight crossing knot <span>\( 8_{15} \)</span>. You can find each of these on the site KnotInfo.
+of an oriented knot. We looked at four examples: the trefoil knot
+<span>\\( 3_1  \\)</span>, the figure eight knot <span>\\( 4_1 \\)</span>,
+the five-crossing knot <span>\\( 5_2 \\)</span>, and the eight crossing knot
+<span>\\( 8_{15} \\)</span>. You can find each of these on the site KnotInfo.
 
 ### For Wednesday
 
@@ -24,8 +25,8 @@ mirror image. A knot is called _chiral_ when it is not equivalent to its mirror
 image. I mentioned in class that the trefoil knot is chiral, but proving this is
 challenging and will have to wait until we build some tools.
 
-  * Show that the figure eight knot <span>\(4_1\)</span> is achiral by drawing a sequence
-  of knot diagrams between <span>\(4_1\)</span> and its mirror image with easily understood
+  * Show that the figure eight knot <span>\\(4_1\\)</span> is achiral by drawing a sequence
+  of knot diagrams between <span>\\(4_1\\)</span> and its mirror image with easily understood
   steps.
 
 We also talked about how a knot can be given a "sense of travel", called an
@@ -40,5 +41,5 @@ oriented knot which is oriented equivalent to its reverse is called
 _invertible._ Of course, sometimes we just say a knot is invertible when its
 two orientations are oriented equivalent.
 
-  * Show that the knot <span>\(8_{15}\)</span> is invertible by finding a sequence of
+  * Show that the knot <span>\\(8_{15}\\)</span> is invertible by finding a sequence of
   oriented knot diagrams between its two orientations.
