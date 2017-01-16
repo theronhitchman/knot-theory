@@ -25,7 +25,7 @@ title:  UNI Math 4159/5159 <br class="visible-xs" /><i>Knot Theory</i>
         Date: {{ post.date }}
       </p>
 		  <div class="entry">
-		    {{ post.content | truncatewords: 50}}
+		    {{ post.excerpt }}
 		  </div>
 	  </div>
     {% endfor %}
