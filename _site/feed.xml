@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> Knot Theory</title>
+    <description>Course Page for UNI Math 4159</description>
+    <link>http://theronhitchman.github.io/knot-theory/</link>
+    <atom:link href="http://theronhitchman.github.io/knot-theory/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Mirrors and Reverses</title>
+        <description>&lt;p&gt;We discussed two new concepts today: the mirror image of a knot, and the reverse
+of an oriented knot. We looked at four examples: the trefoil knot \( 3_1 , \)
+the figure eight knot \( 4_1 , \) the five-crossing knot \( 5_2 , \) and the eight crossing knot \( 8_{15} . \) You can find
+each of these on the site KnotInfo.&lt;/p&gt;
+
+&lt;h3 id=&quot;for-wednesday&quot;&gt;For Wednesday&lt;/h3&gt;
+
+&lt;p&gt;There seem to be two ways of making a mirror image. Given a knot K, you could
+make a new knot K’ by changing all of the crossings of K. Or, you could
+reflect the knot diagram of K across some line in the plane to get a new knot
+K’’.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Show that K’ and K’’ are always equivalent.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This allows us to speak unabmiguously about the mirror image of a knot. A knot
+is called &lt;em&gt;achiral&lt;/em&gt; (or &lt;em&gt;amphichiral&lt;/em&gt;) when it is equivalent to its
+mirror image. A knot is called &lt;em&gt;chiral&lt;/em&gt; when it is not equivalent to its mirror
+image. I mentioned in class that the trefoil knot is chiral, but proving this is
+challenging and will have to wait until we build some tools.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Show that the figure eight knot \(4_1\) is achiral by drawing a sequence
+  of knot diagrams between \(4_1\) and its mirror image with easily understood
+  steps.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We also talked about how a knot can be given a “sense of travel”, called an
+&lt;em&gt;orientation&lt;/em&gt;. Each knot has two of these of course. A knot together with a
+choice of orientation is called an &lt;em&gt;oriented knot&lt;/em&gt;. If K is an oriented knot,
+the knot Kr with the opposite orientation is called the &lt;em&gt;reverse&lt;/em&gt; of K.&lt;/p&gt;
+
+&lt;p&gt;If we carry the orientations along as we look for equivalent knots, we can talk
+about oriented equivalence of oriented knots. Some oriented knots are oriented
+equivalent to their reverses, and some aren’t. [See what I did there?] An
+oriented knot which is oriented equivalent to its reverse is called
+&lt;em&gt;invertible.&lt;/em&gt; Of course, sometimes we just say a knot is invertible when its
+two orientations are oriented equivalent.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Show that the knot \(8_{15}\) is invertible by finding a sequence of
+  oriented knot diagrams between its two orientations.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 13 Jan 2017 11:05:00 -0600</pubDate>
+        <link>http://theronhitchman.github.io/knot-theory/2017/01/13/mirrors-and-reverses.html</link>
+        <guid isPermaLink="true">http://theronhitchman.github.io/knot-theory/2017/01/13/mirrors-and-reverses.html</guid>
+      </item>
+    
+      <item>
+        <title>First Invariants</title>
+        <description>&lt;p&gt;We talked about three geometric invariants of knots today: the &lt;em&gt;crossing
+number&lt;/em&gt;, the &lt;em&gt;unknotting number&lt;/em&gt;, and the quality of being &lt;em&gt;alternating&lt;/em&gt;.
+It is important to note that the first two are quantitative in nature because
+one associates a number to a knot, but the third is qualitative (and binary)
+because a knot is either alternating or it isn’t. [see what I did there?]&lt;/p&gt;
+
+&lt;p&gt;I used the following examples today:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;a disguised trefoil,&lt;/li&gt;
+  &lt;li&gt;a trefoil \(3_1\),&lt;/li&gt;
+  &lt;li&gt;the six-crossing knot \(6_3\),&lt;/li&gt;
+  &lt;li&gt;the seven-crossing knot \(7_4\), and&lt;/li&gt;
+  &lt;li&gt;Goeritz’s unknot.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;You can find more about these, and diagrams from the site
+&lt;a href=&quot;http://www.indiana.edu/~knotinfo/&quot;&gt;KnotInfo&lt;/a&gt;. Well, for the last one you might
+need to do a Google Search.&lt;/p&gt;
+
+&lt;h3 id=&quot;for-friday&quot;&gt;For Friday:&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Check which of the knots and links from our table is alternating, which
+aren’t. [I did it again.]&lt;/li&gt;
+  &lt;li&gt;Find a sequence of diagrams which helps show that Goeritz’s unknot really is
+the unknot.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;update&quot;&gt;UPDATE&lt;/h2&gt;
+
+&lt;p&gt;I don’t want to forget that Eric (the charm one) asked a really interesting
+question, which brought us to discuss Peter Guthrie Tait and one of his famous
+conjectures:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;Conjecture:&lt;/em&gt; [P.G. Tait, ca. 1880] Any reduced diagram of an alternating
+link has the fewest possible crossings.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;We haven’t talked about what “reduced” means, yet. Don’t worry, we’ll come back
+to this later.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 11 Jan 2017 11:15:00 -0600</pubDate>
+        <link>http://theronhitchman.github.io/knot-theory/2017/01/11/first-invariants.html</link>
+        <guid isPermaLink="true">http://theronhitchman.github.io/knot-theory/2017/01/11/first-invariants.html</guid>
+      </item>
+    
+      <item>
+        <title>The Big Questions</title>
+        <description>&lt;p&gt;We started by playing with some knots. So far, we have come across these basic
+but important ideas:&lt;/p&gt;
+
+&lt;p&gt;What is a knot? How should we represent them on a page?
+How could we tell if two links are the same thing?
+How could we tell if two links are genuinely different?&lt;/p&gt;
+
+&lt;p&gt;The questions there are the basic questions of knot theory, and we will learn
+some of what humanity has devised as answers.&lt;/p&gt;
+
+&lt;p&gt;For Wednesday, please try to figure out if each of the pairs of links from our
+little table is either the same or different. There are
+\[ \binom{15}{2} = 15\times 7 = 105\]
+such pairs, so you won’t figure them all out. That’s okay. Do what you can.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 09 Jan 2017 11:15:00 -0600</pubDate>
+        <link>http://theronhitchman.github.io/knot-theory/2017/01/09/big-question.html</link>
+        <guid isPermaLink="true">http://theronhitchman.github.io/knot-theory/2017/01/09/big-question.html</guid>
+      </item>
+    
+      <item>
+        <title>Welcome</title>
+        <description>&lt;p&gt;Welcome to Math 4159/5159 &lt;em&gt;Knot Theory&lt;/em&gt;. This course is new and &lt;em&gt;experimental&lt;/em&gt;.
+I am busy making final decisions, and the &lt;a href=&quot;/knot-theory/syllabus/index.html&quot;&gt;syllabus&lt;/a&gt; will get finished before
+class begins.&lt;/p&gt;
+
+&lt;p&gt;At this point, there are a mix of undergraduate and graduate students enrolled.
+The main spirit of the course will be the same for all, but I will expect a combination
+of (1) better results, and (2) more work from the graduate students.&lt;/p&gt;
+
+&lt;p&gt;I am very excited to get started. See you Monday!&lt;/p&gt;
+</description>
+        <pubDate>Thu, 05 Jan 2017 19:30:00 -0600</pubDate>
+        <link>http://theronhitchman.github.io/knot-theory/2017/01/05/Welcome.html</link>
+        <guid isPermaLink="true">http://theronhitchman.github.io/knot-theory/2017/01/05/Welcome.html</guid>
+      </item>
+    
+  </channel>
+</rss>
