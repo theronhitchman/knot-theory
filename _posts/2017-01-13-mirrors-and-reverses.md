@@ -6,7 +6,10 @@ layout: post
 
 We discussed two new concepts today: the mirror image of a knot, and the reverse
 of an oriented knot. We looked at four examples: the trefoil knot \\( 3_1 , \\)
-the figure eight knot \\( 4_1 , \\) the five-crossing knot \\( 5_2 , \\) and the eight crossing knot \\( 8_{15} . \\) You can find
+the figure eight knot \\( 4_1 , \\)
+the five-crossing knot \\( 5_2 , \\) and
+the eight crossing knot \\( 8_{15} . \\)
+You can find
 each of these on the site KnotInfo.
 
 ### For Wednesday
