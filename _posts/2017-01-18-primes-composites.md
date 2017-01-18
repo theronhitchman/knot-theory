@@ -28,3 +28,7 @@ prime knots.
 
 Please find decompositions of the two nasty knots I gave you into simpler knots.
 Can you decompose them all the way down to primes?
+
+### Solutions to the third homework
+
+[Here is my set of solutions to the third homework.][{{site.baseurl}}/images/KnotsHomework3.pdf]
