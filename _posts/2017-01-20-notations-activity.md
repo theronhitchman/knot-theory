@@ -9,7 +9,8 @@ the [whole set of handouts here][activity]. Also, I had planned to pass out [thi
 to show the depth of the challenge of making reasonable notations. But it seems
 like you got the big ideas already.
 
-[activity]: {{site.baseurl/images/KnotNotationActivity.pdf}}
+[activity]: {{site.baseurl}}/images/KnotNotationActivity.pdf
+
 [11n1diagram]: {{site.baseurl}}/images/11n_1.pdf
 
 We only did the first two parts of the activity I planned, which was enough to
