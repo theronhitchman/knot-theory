@@ -5,7 +5,7 @@ date: 2017-01-25 11:30
 ---
 
 Today we talked about some aspects of breaking a big, chunky,
-<span>\( \Delta\)</span>-move into little pieces of controllable types. These
+<span>\\( \Delta \\)</span>-move into little pieces of controllable types. These
 types will include the following:
 
 * planar isotopies, which don't change the crossing information,
