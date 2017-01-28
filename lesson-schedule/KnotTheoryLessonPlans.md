@@ -53,6 +53,8 @@ discuss the details, but it will take two readings (at least).
 
 More discussion of section 2.2, lemma 2.2.6 and the following two exercises
 
+ -- we got through 2.2.9 discussion of option (b). Homework: make list for (c).
+
 ## Week Four
 
 ### Day Nine: Monday, Jan 30
