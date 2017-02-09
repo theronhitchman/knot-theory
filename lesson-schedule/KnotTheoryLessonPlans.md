@@ -71,3 +71,23 @@ TJ out of town!! class finishes discussion of delta vs R and sets up for using
 equivalence as basis for invariants!
 
 - Mark to lead that day?
+
+### Day Twelve: Monday, Feb 6
+
+Twist knots
+
+### Day Thirteen: Wednesday, Feb 8
+
+Pretzel links
+
+### Day Fourteen: Friday, Feb 10
+
+Torus links
+
+### Day Fifteen: Monday, Feb 13
+
+First third recap day. Outline and exam question assignment. Discussion.
+
+### Day Sixteen: Wednesday, Feb 15
+
+**First Exam**

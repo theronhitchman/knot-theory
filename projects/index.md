@@ -29,9 +29,10 @@ really interesting to you, we can probably make it work.
 ### Graduates
 
 - Seifert surfaces and the genus
+- braids and the braid group
 - Thurston's theorem: knots are either torus knots, satellites, or hyperbolic
 - knot groups
 - quandles for knots
 - Murasugi's theorem relating crossing number and bridge index for alternating knots
 - higher dimensional knotting
-- knots in the Lorenz equations 
+- knots in the Lorenz equations
